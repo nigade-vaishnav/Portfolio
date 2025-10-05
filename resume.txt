@@ -1,0 +1,84 @@
+Vaishnav Nigade
+ nigadevaishnav@gmail.com 
+9284292218 
+Pune, Maharashtra, India
+ LinkedIn:www.linkedin.com/in/vaishnav-nigade-a5971426b
+ GitHub:
+ LeetCode
+ Education
+ Indian Institute of Information Technology, Kottayam
+ B.Tech in Computer Science and Engineering (AI and Data Science)
+ Fergusson College, Pune
+ Higher Secondary Certificate (HSC)– Maharashtra Board
+ Nov 2022– Present
+ CGPA: 7.52 / 10
+ 2020– 2022
+ 76.33% (IT: 98%)
+ Abhinav English Medium School, Pune
+ Secondary School Certificate (SSC)– Maharashtra Board
+ Technical Skills
+ 2010– 2020
+ 94.20%
+ Programming Languages: C, C++, Python, Shell, Perl, Java, Bash, PowerShell, HTML5, CSS, JavaScript,
+ TypeScript, x86 Assembly, HDL (Verilog/VHDL)
+ Scripting Tools: Git, Subversion, Power BI, REST API Design, SQL, CI/CD Workflows, Windows/Linux Trou
+bleshooting
+ AI/ML Data Science: PyTorch, TensorFlow, TorchRL, Scikit-learn, OpenCV, NLP, Large Language Models
+ (LLMs), Multimodal Models, Computer Vision
+ Frameworks Libraries: .NET Core, Angular, React,FFT
+ Compilers Architecture: Compiler Design, CPU/GPU Pipeline Architecture, Cache Subsystems, Instruction
+ Set Architecture, CPU Profiling Tools, OS Internals
+ Parallel Architecture: OpenMP, MPI, CUDA
+ Cloud Systems: Cloud Computing, Computing Systems Internals, Domain Knowledge, Performance Bottleneck
+ Analysis
+ FPGA Hardware Design: Microarchitectures, Digital Logic Design, Familiarity with Deep Learning on FPGA
+ Software Engineering: Software QA (SWQA/PC/Games), Web Development, Unix/Linux Internals, Version
+ Control, Software Debugging
+ Concepts: Data Structures, Algorithms, Object-Oriented Programming
+ Bonus Skills: Architecture-Based Optimisation, Deep Learning Acceleration, Digital Design, System-Level Per
+formance Analysis, Algorithm optimisation
+ Projects
+ Trapezoidal and Simpson’s Rule in C++ (Parallelized)
+ 2024
+ Implemented numerical integration using Trapezoidal and Simpson’s Rule, parallelised using OpenMP/MPI to
+ study performance gains with Amdahl’s Law. Achieved 1.6x speedup over serial implementation.
+ Odd-Even Sort (Parallel)
+ 2024
+ Designed and implemented an efficient Odd-Even Transposition Sort using MPI, analysing communication overhead
+ and efficiency over increasing processors.
+ Cloud-based AI/ML Pipeline with CI/CD and GPU Acceleration
+ 2024–25
+ Built a CI/CD pipeline for training and deploying PyTorch/TensorFlow models on AWS/GCP. Containerised
+ models using Docker, deployed inference APIs with Flask/FastAPI, and integrated GitHub Actions for automated
+ training and deployment. Leveraged GPU acceleration for faster training and used profiling tools like nvidia-smi
+ and PyTorch Profiler for performance tuning.
+ Full-Stack Health Tracker (In Progress)
+ Developing a personalised health wellness tracking platform using React, Node.js, MongoDB, and integrated
+ AI/ML APIs for diet, screen-time, sleep, and fitness reminders.
+ Achievements
+ • Selected for Goldman Sachs Engineering Campus Hiring Program 2024-25.
+ • Consistent Top 10% in academics during HSC (JEE AIR(EWS):3615 (97.17%)) and regional topper in SSC
+ (State rank 6 in Indian Talent Exam).
+ • Completed 20+ mini-projects, including competitive coding tasks, ML models, and algorithm implementations.
+ • Active contributor on GitHub and LeetCode.
+ Experience
+ Freelancer, Upwork
+ Feb 2025– Present
+ Built and deployed web scraping tools and automation scripts, provided Python tutoring, and received positive
+ client feedback.
+Personal AI DevOps Projects
+ 2024– Present
+ Worked on Jenkins Pipelines, SonarQube analysis, Docker deployments, and cloud hosting as part of college
+ DevOps coursework and personal interest.
+ Certifications
+ • Complete A.I. Machine Learning, Data Science Bootcamp– Udemy
+ Completed 44+ hours of hands-on training in AI, machine learning, neural networks, data analysis, and NLP.
+ Built real-world ML pipelines using Python.
+ • 0
+. • The Web Developer Bootcamp 2025– Udemy
+ Completed 74.5+ hours covering full-stack development with HTML, CSS, JavaScript, Node.js, Express, Mon
+goDB, and REST APIs. Built multiple dynamic web apps with backend integration.
+ Additional Information
+ • Height: 6’4”, Weight: 82kg — Focused on natural fitness and high-protein vegetarian nutrition.
+ • Vision: Build India’s leading AI-integrated health network science startup.
+ • Languages Known: English, Hindi, Marathi,Frenc
